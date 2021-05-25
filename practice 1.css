@@ -1,0 +1,40 @@
+body{
+	font-family: 'Newsreader', serif;
+	font-size: 20px;
+	background-color: #cce6ff;
+}
+h1,h2{
+	text-align: center;
+}
+.header
+{
+	font-weight: bold;
+	
+}
+.container
+{
+	width: 80%;
+	margin-left: 10%;
+	border:1px black solid;
+	padding: 1px;
+}
+img {
+	
+	text-align: center;
+	margin-left: 35%;
+}
+	
+
+span {
+	font-weight: bold;
+	font-size: 30px;
+}
+li
+{
+	padding: 5px;
+}
+img:hover
+{
+		
+	transition: 2s;
+}
